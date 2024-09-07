@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../imagenes"
+		},
+		{
+			"path": "../video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imagenes",
+		"liveServer.settings.port": 5501
+	}
+}
